@@ -1,0 +1,3 @@
+msdos.o: msdos.c ../config.h
+
+../config.h:

@@ -1,0 +1,3 @@
+ntfs_io.o: ntfs_io.c ../config.h
+
+../config.h:

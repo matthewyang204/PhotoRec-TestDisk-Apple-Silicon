@@ -1,0 +1,3 @@
+suspend_no.o: suspend_no.c ../config.h
+
+../config.h:

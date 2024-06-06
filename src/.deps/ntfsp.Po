@@ -1,0 +1,3 @@
+ntfsp.o: ntfsp.c ../config.h
+
+../config.h:

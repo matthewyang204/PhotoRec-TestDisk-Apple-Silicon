@@ -1,0 +1,3 @@
+sudo.o: sudo.c ../config.h
+
+../config.h:

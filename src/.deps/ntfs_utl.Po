@@ -1,0 +1,3 @@
+ntfs_utl.o: ntfs_utl.c ../config.h
+
+../config.h:
