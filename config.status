@@ -430,7 +430,7 @@ Copyright (C) 2021 Free Software Foundation, Inc.
 This config.status script is free software; the Free Software Foundation
 gives unlimited permission to copy, distribute and modify it."
 
-ac_pwd='/Users/matthewyang/downloads/testdisk-7.2'
+ac_pwd='/Users/matthewyang/PhotoRec-TestDisk-Apple-Silicon'
 srcdir='.'
 INSTALL='/opt/local/bin/ginstall -c'
 MKDIR_P='/opt/local/bin/gmkdir -p'
@@ -703,12 +703,12 @@ S["mkdir_p"]="$(MKDIR_P)"
 S["MKDIR_P"]="/opt/local/bin/gmkdir -p"
 S["INSTALL_STRIP_PROGRAM"]="$(install_sh) -c -s"
 S["STRIP"]=""
-S["install_sh"]="${SHELL} /Users/matthewyang/downloads/testdisk-7.2/config/install-sh"
-S["MAKEINFO"]="${SHELL} '/Users/matthewyang/downloads/testdisk-7.2/config/missing' makeinfo"
-S["AUTOHEADER"]="${SHELL} '/Users/matthewyang/downloads/testdisk-7.2/config/missing' autoheader"
-S["AUTOMAKE"]="${SHELL} '/Users/matthewyang/downloads/testdisk-7.2/config/missing' automake-1.16"
-S["AUTOCONF"]="${SHELL} '/Users/matthewyang/downloads/testdisk-7.2/config/missing' autoconf"
-S["ACLOCAL"]="${SHELL} '/Users/matthewyang/downloads/testdisk-7.2/config/missing' aclocal-1.16"
+S["install_sh"]="${SHELL} /Users/matthewyang/PhotoRec-TestDisk-Apple-Silicon/config/install-sh"
+S["MAKEINFO"]="${SHELL} '/Users/matthewyang/PhotoRec-TestDisk-Apple-Silicon/config/missing' makeinfo"
+S["AUTOHEADER"]="${SHELL} '/Users/matthewyang/PhotoRec-TestDisk-Apple-Silicon/config/missing' autoheader"
+S["AUTOMAKE"]="${SHELL} '/Users/matthewyang/PhotoRec-TestDisk-Apple-Silicon/config/missing' automake-1.16"
+S["AUTOCONF"]="${SHELL} '/Users/matthewyang/PhotoRec-TestDisk-Apple-Silicon/config/missing' autoconf"
+S["ACLOCAL"]="${SHELL} '/Users/matthewyang/PhotoRec-TestDisk-Apple-Silicon/config/missing' aclocal-1.16"
 S["VERSION"]="7.2"
 S["PACKAGE"]="testdisk"
 S["CYGPATH_W"]="echo"
